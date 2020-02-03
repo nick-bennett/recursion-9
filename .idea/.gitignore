@@ -1,2 +1,8 @@
 # Default ignored files
+/caches
+#/codeStyles
+/libraries
+/assetWizardSettings.xml
+/uiDesigner.xml
+#/vcs.xml
 /workspace.xml
